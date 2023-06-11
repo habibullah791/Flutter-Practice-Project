@@ -43,7 +43,7 @@ A fun Flutter app that mimics a xylophone. Each button on the screen represents 
 Feel free to explore these projects, modify them, and use them as a learning resource to enhance your Flutter skills. Each project is self-contained and comes with detailed documentation to guide you through the implementation.
 
 
-#To get started with these Flutter practice projects, follow the steps below:
+# To get started with these Flutter practice projects, follow the steps below:
 
 1. **Prerequisites:** Make sure you have Flutter installed on your system. If you haven't installed Flutter yet, please refer to the official [Flutter installation guide](https://flutter.dev/docs/get-started/install) for detailed instructions.
 
@@ -52,7 +52,7 @@ Feel free to explore these projects, modify them, and use them as a learning res
 
 5. **Launch the app:** Use the following command to launch the app on a connected device or emulator: flutter run
 
-This will build and run the Flutter app on your device or emulator, allowing you to interact with the project.
+    ## This will build and run the Flutter app on your device or emulator, allowing you to interact with the project.
 
 6. **Explore and modify:** You can now explore the project's source code, make modifications, and experiment with different features. Feel free to customize the project according to your preferences and learning goals.
 
